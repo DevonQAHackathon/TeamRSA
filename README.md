@@ -1,7 +1,7 @@
 # TeamRSA
 Repository of the web application and api automation test framework of TeamRSA
 
-WeatherApiTestFramework
+ApiTestFramework
 
 Sample Web Application along with the test framework to automate testing
 
