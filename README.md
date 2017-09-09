@@ -12,3 +12,5 @@ To Test the given application we have built our own Test automation framework us
 Framework Requirment: Python 3.4 Nose 1.3.7 Selenium 3.5
 
 We are utlizing the capability of nose test to do modular programing. Test cases and Test Data are stored in orginization format.
+
+![Automation FrameWork](TeamRSA/Images/image.png?raw=true "Block Diagram")
