@@ -40,8 +40,6 @@ $json = json_decode($response_from, true);
 		 {
 		 	$from_cur = implode(":",$value);
 		 }
-		 
-
 	}	
 	$from_city_cur = explode(":",$from_cur);
 	
@@ -66,8 +64,6 @@ $json = json_decode($response_To, true);
 	}	
 	$to_city_cur = explode(":",$to_cur);
 
-
-
 $from_city_value = explode(":", $from_value);
 $to_city_value = explode(":", $to_value);
 $from_temp = (float)$from_city_value[0];
@@ -77,8 +73,6 @@ $comment = "";
 if($from_temp > $to_temp)
 {
 	$comment = "Your are going to cooler place.  \n Please Carry Warm Cloths";
-	
-
 }
 else if ($from_temp == $to_temp)
 {
@@ -89,56 +83,39 @@ else
 	$comment = "Your are going to warmer place.  \n Please Carry Sunscream lotion";
 }
 
-	
-
 echo 
-
 <<<MYTAG
 
-<table class="responstable" id = "city_table">
-  
+<table class="responstable" id = "city_table">  
   <tr>
     <th>City</th>    
     <th>Temperature</th>
     <th>Humidity</th>
     <th>Min_Temp</th>
-    <th>Max_Temp</th>
-   
-      </tr>
-  
-  <tr>
-    
+    <th>Max_Temp</th>   
+  </tr>  
+  <tr>    
     <td>$city_from</td>
     <td>$from_city_value[0]</td>
     <td>$from_city_value[1]</td>
     <td>$from_city_value[2]</td>
     <td>$from_city_value[3]</td>
   </tr>
-
-  <tr>
-    
+  <tr>    
     <td>$city_to</td>
     <td>$to_city_value[0]</td>
     <td>$to_city_value[1]</td>
     <td>$to_city_value[2]</td>
     <td>$to_city_value[3]</td>
-  </tr>
-  
-   
+  </tr>   
   </table>
 
   <table class="responstable">
   <tr>
   <th>$comment</th>  
   <tr>
-  </table>
-
-
-
-
-  
+  </table>  
 MYTAG;
-
 ?>
 </body>
 </html>
