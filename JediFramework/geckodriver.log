@@ -1,0 +1,154 @@
+1504966151273	geckodriver	INFO	geckodriver 0.18.0
+1504966151503	geckodriver	INFO	Listening on 127.0.0.1:58590
+1504966151879	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966163159	Marionette	INFO	Listening on port 58594
+1504966163539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966173294	Marionette	INFO	New connections will no longer be accepted
+1504966228634	geckodriver	INFO	geckodriver 0.18.0
+1504966228664	geckodriver	INFO	Listening on 127.0.0.1:58670
+1504966229212	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966235569	Marionette	INFO	Listening on port 58674
+1504966235822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966244497	Marionette	INFO	New connections will no longer be accepted
+1504966267163	geckodriver	INFO	geckodriver 0.18.0
+1504966267192	geckodriver	INFO	Listening on 127.0.0.1:58743
+1504966267760	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966274126	Marionette	INFO	Listening on port 58747
+1504966274610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966283220	Marionette	INFO	New connections will no longer be accepted
+1504966369331	geckodriver	INFO	geckodriver 0.18.0
+1504966369357	geckodriver	INFO	Listening on 127.0.0.1:58816
+1504966369904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966376190	Marionette	INFO	Listening on port 58820
+1504966376475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966385300	Marionette	INFO	New connections will no longer be accepted
+1504966433750	geckodriver	INFO	geckodriver 0.18.0
+1504966433776	geckodriver	INFO	Listening on 127.0.0.1:58886
+1504966434333	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966441088	Marionette	INFO	Listening on port 58890
+1504966441349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966451380	Marionette	INFO	New connections will no longer be accepted
+1504966530772	geckodriver	INFO	geckodriver 0.18.0
+1504966530799	geckodriver	INFO	Listening on 127.0.0.1:58958
+1504966531361	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966537590	Marionette	INFO	Listening on port 58962
+1504966537843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966547336	Marionette	INFO	New connections will no longer be accepted
+1504966641803	geckodriver	INFO	geckodriver 0.18.0
+1504966641827	geckodriver	INFO	Listening on 127.0.0.1:59064
+1504966642394	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966648239	Marionette	INFO	Listening on port 59068
+1504966648775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966657406	Marionette	INFO	New connections will no longer be accepted
+1504966678367	geckodriver	INFO	geckodriver 0.18.0
+1504966678393	geckodriver	INFO	Listening on 127.0.0.1:59134
+1504966678950	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966685392	Marionette	INFO	Listening on port 59138
+1504966685861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966694112	Marionette	INFO	New connections will no longer be accepted
+1504966765398	geckodriver	INFO	geckodriver 0.18.0
+1504966765425	geckodriver	INFO	Listening on 127.0.0.1:59311
+1504966765984	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966771565	Marionette	INFO	Listening on port 59315
+1504966772348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966781083	Marionette	INFO	New connections will no longer be accepted
+1504966835803	geckodriver	INFO	geckodriver 0.18.0
+1504966835833	geckodriver	INFO	Listening on 127.0.0.1:59390
+1504966836398	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966842497	Marionette	INFO	Listening on port 59394
+1504966842754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966850618	Marionette	INFO	New connections will no longer be accepted
+1504966897289	geckodriver	INFO	geckodriver 0.18.0
+1504966897311	geckodriver	INFO	Listening on 127.0.0.1:59468
+1504966897868	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966902757	Marionette	INFO	Listening on port 59472
+1504966903111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966910729	Marionette	INFO	New connections will no longer be accepted
+1504966931119	geckodriver	INFO	geckodriver 0.18.0
+1504966931148	geckodriver	INFO	Listening on 127.0.0.1:59532
+1504966931712	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966938026	Marionette	INFO	Listening on port 59536
+1504966938261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966946117	Marionette	INFO	New connections will no longer be accepted
+1504966974422	geckodriver	INFO	geckodriver 0.18.0
+1504966974446	geckodriver	INFO	Listening on 127.0.0.1:59603
+1504966974993	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504966979713	Marionette	INFO	Listening on port 59607
+1504966979937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504966987688	Marionette	INFO	New connections will no longer be accepted
+1504967007115	geckodriver	INFO	geckodriver 0.18.0
+1504967007142	geckodriver	INFO	Listening on 127.0.0.1:59671
+1504967007703	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967013361	Marionette	INFO	Listening on port 59675
+1504967014052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967022083	Marionette	INFO	New connections will no longer be accepted
+1504967144345	geckodriver	INFO	geckodriver 0.18.0
+1504967144372	geckodriver	INFO	Listening on 127.0.0.1:59755
+1504967144920	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967151905	Marionette	INFO	Listening on port 59759
+1504967152310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967160178	Marionette	INFO	New connections will no longer be accepted
+1504967161068	geckodriver	INFO	geckodriver 0.18.0
+1504967161114	geckodriver	INFO	Listening on 127.0.0.1:59819
+1504967161565	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967166307	Marionette	INFO	Listening on port 59824
+1504967166809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967174630	Marionette	INFO	New connections will no longer be accepted
+1504967231822	geckodriver	INFO	geckodriver 0.18.0
+1504967231849	geckodriver	INFO	Listening on 127.0.0.1:59894
+1504967232408	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967239375	Marionette	INFO	Listening on port 59898
+1504967239814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967393477	Marionette	INFO	Ceased listening
+0
+1504967240017	geckodriver	INFO	Listening on 127.0.0.1:59915
+1504967240542	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967246919	Marionette	INFO	Listening on port 59921
+1504967247469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967255429	Marionette	INFO	New connections will no longer be accepted
+1504967291350	geckodriver	INFO	geckodriver 0.18.0
+1504967291399	geckodriver	INFO	Listening on 127.0.0.1:59993
+1504967291956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967298537	Marionette	INFO	Listening on port 59997
+1504967298855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967306049	Marionette	INFO	New connections will no longer be accepted
+1504967306625	geckodriver	INFO	geckodriver 0.18.0
+1504967306648	geckodriver	INFO	Listening on 127.0.0.1:60063
+1504967307293	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967312997	Marionette	INFO	Listening on port 60067
+1504967313658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967320984	Marionette	INFO	New connections will no longer be accepted
+1504967352451	geckodriver	INFO	geckodriver 0.18.0
+1504967352504	geckodriver	INFO	Listening on 127.0.0.1:60131
+1504967353028	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967358973	Marionette	INFO	Listening on port 60135
+1504967359433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967366819	Marionette	INFO	New connections will no longer be accepted
+1504967367426	geckodriver	INFO	geckodriver 0.18.0
+1504967367443	geckodriver	INFO	Listening on 127.0.0.1:60193
+1504967368103	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1077: unreachable code after return statement
+1504967375174	Marionette	INFO	Listening on port 60197
+1504967375520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504967383382	Marionette	INFO	New connections will no longer be accepted

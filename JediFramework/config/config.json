@@ -1,0 +1,6 @@
+{
+  "open-weather": {
+    "url": "api.openweathermap.org",
+    "appId": "1e094d4150bb132956c6ad7367ca8b9c"
+  }
+}

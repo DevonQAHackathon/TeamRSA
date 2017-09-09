@@ -1,0 +1,279 @@
+{
+  "zipcodes": [
+    {
+      "Zipcode": 19424,
+      "City": "BLUE BELL",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19339,
+      "City": "CONCORDVILLE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19340,
+      "City": "CONCORDVILLE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19429,
+      "City": "CONSHOHOCKEN",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19441,
+      "City": "HARLEYSVILLE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19098,
+      "City": "HOLMES",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19091,
+      "City": "MEDIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19415,
+      "City": "EAGLEVILLE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19455,
+      "City": "NORTH WALES",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19092,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19093,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19099,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19161,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19162,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19170,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19171,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19172,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19173,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19175,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19177,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19178,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19179,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19181,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19182,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19183,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19184,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19185,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19187,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19188,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19191,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19192,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19193,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19194,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19195,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19196,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19197,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19244,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19255,
+      "City": "PHILADELPHIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19493,
+      "City": "VALLEY FORGE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19494,
+      "City": "VALLEY FORGE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19495,
+      "City": "VALLEY FORGE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19496,
+      "City": "VALLEY FORGE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19383,
+      "City": "WEST CHESTER",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19388,
+      "City": "WEST CHESTER",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 20218,
+      "City": "WASHINGTON",
+      "State": "DC"
+    },
+    {
+      "Zipcode": 20319,
+      "City": "WASHINGTON",
+      "State": "DC"
+    },
+    {
+      "Zipcode": 20428,
+      "City": "WASHINGTON",
+      "State": "DC"
+    },
+    {
+      "Zipcode": 20543,
+      "City": "WASHINGTON",
+      "State": "DC"
+    },
+    {
+      "Zipcode": 20742,
+      "City": "COLLEGE PARK",
+      "State": "MD"
+    },
+    {
+      "Zipcode": 19488,
+      "City": "NORRISTOWN",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19489,
+      "City": "NORRISTOWN",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19640,
+      "City": "READING",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19483,
+      "City": "VALLEY FORGE",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 19487,
+      "City": "KING OF PRUSSIA",
+      "State": "PA"
+    },
+    {
+      "Zipcode": 21685,
+      "City": "RIDGELY",
+      "State": "MD"
+    }
+  ]
+}
